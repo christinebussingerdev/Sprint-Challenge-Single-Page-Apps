@@ -37,3 +37,23 @@ main {
 header h1 {
   text-align: center;
 }
+.character-profile {
+  box-sizing: border-box;
+  padding: 20px;
+  /* width: 200px; */
+  color: white;
+  width: 30%;
+  margin: 15px;
+  background-color: rgb(113, 158, 172);
+
+}
+
+.profile-case {
+
+  display: flex;
+  flex-direction: col;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-evenly;
+  
+}
